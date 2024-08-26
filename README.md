@@ -1,2 +1,2 @@
 # olist-ecommerce-analyst
-Link: https://drive.google.com/file/d/1rl2WWGbC7Byc_r5UP7eSpGj7hOdFvbJ-/view?usp=sharing
+Link: https://app.powerbi.com/groups/me/reports/999ff5e1-46ce-425f-97c5-17a7af147ed3?ctid=dfe6a537-1611-4252-a05c-003eb86afd6c&pbi_source=linkShare
